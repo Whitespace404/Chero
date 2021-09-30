@@ -1,3 +1,3 @@
-﻿Chero 
+# Chero 
  
  A discord bot
