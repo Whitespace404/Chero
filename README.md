@@ -1,3 +1,3 @@
 # Chero 
  
- A discord bot
+ A discord bot in progress
